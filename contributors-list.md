@@ -150,3 +150,7 @@ Currently studying in PES !! <br />
 **About Me** : <br />
 Curious to learn new things and implement ideas <br />
 
+**Name** : Sharanya Mishra <br />
+**Link to profile** : [mishrasharanya](https://github.com/mishrasharanya)<br />
+**About Me** : <br />
+A learning enthusiast who wants to learn about open source.<br />
